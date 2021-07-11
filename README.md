@@ -1,2 +1,2 @@
 # gans-specialization-
-Assignment solution for GANs specialization
+Assignment solutions for Generative Adversarial Networks (GANs) Specialization by deeplearning.ai on Coursera
